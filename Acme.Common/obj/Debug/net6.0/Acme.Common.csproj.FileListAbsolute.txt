@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Acme.Common\bin\Debug\net6.0\Acme.Common.deps.json
+C:\Users\user\source\repos\Acme.Common\bin\Debug\net6.0\Acme.Common.dll
+C:\Users\user\source\repos\Acme.Common\bin\Debug\net6.0\Acme.Common.pdb
+C:\Users\user\source\repos\Acme.Common\obj\Debug\net6.0\Acme.Common.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Acme.Common\obj\Debug\net6.0\Acme.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Acme.Common\obj\Debug\net6.0\Acme.Common.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Acme.Common\obj\Debug\net6.0\Acme.Common.AssemblyInfo.cs
+C:\Users\user\source\repos\Acme.Common\obj\Debug\net6.0\Acme.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Acme.Common\obj\Debug\net6.0\Acme.Common.dll
+C:\Users\user\source\repos\Acme.Common\obj\Debug\net6.0\refint\Acme.Common.dll
+C:\Users\user\source\repos\Acme.Common\obj\Debug\net6.0\Acme.Common.pdb
+C:\Users\user\source\repos\Acme.Common\obj\Debug\net6.0\ref\Acme.Common.dll

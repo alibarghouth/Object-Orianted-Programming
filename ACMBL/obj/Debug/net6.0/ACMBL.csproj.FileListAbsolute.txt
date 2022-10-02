@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ACMBL\bin\Debug\net6.0\ACMBL.deps.json
+C:\Users\user\source\repos\ACMBL\bin\Debug\net6.0\ACMBL.dll
+C:\Users\user\source\repos\ACMBL\bin\Debug\net6.0\ACMBL.pdb
+C:\Users\user\source\repos\ACMBL\obj\Debug\net6.0\ACMBL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ACMBL\obj\Debug\net6.0\ACMBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ACMBL\obj\Debug\net6.0\ACMBL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ACMBL\obj\Debug\net6.0\ACMBL.AssemblyInfo.cs
+C:\Users\user\source\repos\ACMBL\obj\Debug\net6.0\ACMBL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ACMBL\obj\Debug\net6.0\ACMBL.dll
+C:\Users\user\source\repos\ACMBL\obj\Debug\net6.0\refint\ACMBL.dll
+C:\Users\user\source\repos\ACMBL\obj\Debug\net6.0\ACMBL.pdb
+C:\Users\user\source\repos\ACMBL\obj\Debug\net6.0\ref\ACMBL.dll
+C:\Users\user\source\repos\ACMBL\bin\Debug\net6.0\Acme.Common.dll
+C:\Users\user\source\repos\ACMBL\bin\Debug\net6.0\Acme.Common.pdb
+C:\Users\user\source\repos\ACMBL\obj\Debug\net6.0\ACMBL.csproj.CopyComplete
